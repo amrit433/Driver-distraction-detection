@@ -284,7 +284,7 @@ driver-distraction-detection/
 | **Best Validation Accuracy** | 99.55% |
 | **Final Training Accuracy** | 99.62% |
 | **Training Time** | ~26 minutes |
-| **GPU** | NVIDIA RTX 3060 |
+| **GPU** | NVIDIA RTX 3050 |
 | **Epochs** | 20 |
 | **Batch Size** | 32 |
 
